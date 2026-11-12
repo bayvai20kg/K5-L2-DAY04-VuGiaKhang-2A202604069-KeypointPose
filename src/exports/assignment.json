@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604069",
+ "ten": "VuGiaKhangaiinactionK5L2DAY04VuGiaKhang2A202604069KeypointPose",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "vugiakhang",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000184224.jpg",
+  "000000240340.jpg",
+  "000000314154.jpg",
+  "000000564304.jpg",
+  "000000056651.jpg",
+  "000000177338.jpg",
+  "000000360811.jpg",
+  "000000069971.jpg",
+  "000000515309.jpg",
+  "000000438099.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_261458.jpg",
+  "face_300399.jpg",
+  "face_416730.jpg",
+  "face_449454.jpg",
+  "face_186226.jpg",
+  "face_255797.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "persons-VuGiaKhangaiinactionK5L2DAY04VuGiaKhang2A202604069KeypointPose"
+  },
+  "faces": {
+   "task_id": 5,
+   "job_id": 5,
+   "task_name": "faces-VuGiaKhangaiinactionK5L2DAY04VuGiaKhang2A202604069KeypointPose"
+  }
+ }
+}
